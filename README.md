@@ -41,7 +41,7 @@ Follow these steps to set up and run the project:
 
 ### 1️⃣ Clone the Repository  
 ```bash
-git clone https://github.com/yourusername/Face_Eye_Smile_Detection.git
+git clone https://github.com/FNICKE/Face_Eye_Smile_Detection.git
 cd Face_Eye_Smile_Detection
 
 ## Install Dependencies
