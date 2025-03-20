@@ -12,6 +12,9 @@ This project is a **real-time facial feature detection system** that can identif
 
 It utilizes **OpenCV's Haar Cascade Classifiers**, a pre-trained model for object detection, to recognize facial features in **live webcam feed** or images.  
 
+📷 **Screenshot of the Detection in Action:**  
+![Detection Screenshot](Face_Eye_Smile_Detection/Screenshot%202025-03-20%20231858.png)
+
 ---
 
 ## 🎯 Features  
@@ -49,10 +52,7 @@ pip install opencv-python
 
 ## Run the script
 python self_done_homework.py
-
-
-## 📂 Project Structure  
-
+```
 
 ---
 
@@ -62,7 +62,4 @@ python self_done_homework.py
 ```bash
 git clone https://github.com/yourusername/Face_Eye_Smile_Detection.git
 cd Face_Eye_Smile_Detection
-
-
-
-
+```
