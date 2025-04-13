@@ -10,7 +10,7 @@ This project is a **real-time facial feature detection system** that can identif
 ✔️ **Eyes** 👀  
 ✔️ **Smiles** 😃  
 
-It utilizes **OpenCV's Haar Cascade Classifiers**, a pre-trained model for object detection, to recognize facial features in **live webcam feed** or images.  
+It utilizes **OpenCV's Haar Cascade Classifiers**, a pre-trained model for object detection, to recognize facial features in **Live Webcam Feed** or images.  
 
 📷 **Screenshot of the Detection in Action:**  
 ![Detection Screenshot](Face_Eye_Smile_Detection/Screenshot%202025-03-20%20231858.png)
